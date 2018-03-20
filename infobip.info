@@ -1,0 +1,11 @@
+name = "Infobip SMS Gateway"
+description = "Allows the SMS Framework to use Infobip as a gateway."
+package = SMS Framework
+dependencies[] = sms
+core = 7.x
+
+version = ""
+core = "7.x"
+project = "INFOBIP"
+datestamp = ""
+
